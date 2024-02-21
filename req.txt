@@ -1,0 +1,7 @@
+pyttsx3
+os
+webbrowser
+wikipedia
+pyaudio
+speechRecognition
+genai
